@@ -23,3 +23,5 @@ Acceptance Criteria
     print fist number / second number
  otherwise 
     print warning
+ Flowchart
+ ![simple_cal](https://github.com/cozyGarage/Simple_Calculator/assets/9263674/b9bd0e39-4f34-4a4d-9010-75010e60651b)
