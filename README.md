@@ -13,4 +13,13 @@ Acceptance Criteria
  if the second number is not numeric then print warning
  operation = get input from user
  lower case the operation for case insensitivity
- 
+ if operation is + or "add" then 
+ print fist number + second number
+ if operation is - or "subtract" then
+  print fist number - second number
+ if operation is * or "multiply" then
+   print fist number * second number
+ if operatin is / or "divide" then
+    print fist number / second number
+ otherwise 
+    print warning
