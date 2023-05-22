@@ -7,9 +7,9 @@ Acceptance Criteria
  
  Algorithm
  
- first number = get input from user
- if the first number is not numeric then print warning
- second number = get input from user
+ first number = get input from user /n
+ if the first number is not numeric then print warning /n
+ second number = get input from user /n
  if the second number is not numeric then print warning
  operation = get input from user
  lower case the operation for case insensitivity
