@@ -24,7 +24,8 @@ This is a simple project I use to follow the standard practice. Mainly to stream
  otherwise    
     print warning  
  ## Flowchart  
- ![simple_cal](https://github.com/cozyGarage/Simple_Calculator/assets/9263674/b9bd0e39-4f34-4a4d-9010-75010e60651b)
+ ![simple_cal](https://github.com/cozyGarage/Simple_Calculator/assets/9263674/37c6824a-68b7-45fe-a45e-269c01c5c18b)
  
- ## Unit Test
+ ## Unit 
+Test
  
